@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
 # Simple PowerHAL
 PRODUCT_PACKAGES += \
     power.togari
-    
+
 # NFC
 PRODUCT_PACKAGES += \
     nfc.togari
